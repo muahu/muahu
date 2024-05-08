@@ -30,7 +30,7 @@ I have more than 100 different demo repos. Here's the index with tags:
 ## My GitHub Stats
 
 <a href="https://github.com/muahu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=piomin&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=muahu&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
 </a>
 
 <!--
