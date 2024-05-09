@@ -1,29 +1,34 @@
 ### Hi there 👋 My name's 🅼🆄🅷🅰🅼🅼🅰🅳 🅰🆂🅸🅵 🅷🆄🆂🆂🅰🅸🅽
 
-Java Developer 🔹 Software Architect 🔹 Speaker and learner 🔹 YouTuber and blogger
+Java Developer 🔹 Speaker and learner 🔹 YouTuber and blogger
 
 ### 🛠 &nbsp;Tech Stack (mostly)
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 However, I'm also intensively exploring such topics like (among other things): \
-🔹 OpenShift \
+🔹 Spring Cloud \
 🔹 Apache Kafka \
-🔹 Knative \
-🔹 Quarkus
+🔹 AWS \
+🔹 React, VUE, Angular \
+🔹 Generative AI with python
+
 
 ## The List of My Repositories With Topics
 
 I have more than 100 different demo repos. Here's the index with tags:
-<a href="https://github.com/piomin/repo-index">Index</a>
+<a href="https://github.com/muahu/repo-index">Index</a>
 
 ## Find Me Around The Web 🌍
 
 - 🗣 [Blog](https://tech-and-ai-with-asif.blogspot.com/)
 - 🔴 [YouTube](https://www.youtube.com/channel/UCM7gCGJMRViWhok_R9CL1mg)
-- 🐦 [Twitter](https://twitter.com/piotr_minkowski)
+- 🐦 [Twitter](https://twitter.com/)
 - 🔗 [Linkedin](https://www.linkedin.com/in/asifhussain14/)
 - 📫 [E-mail](mailto:masifhussain213@gmail.com)
 
