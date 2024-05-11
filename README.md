@@ -32,13 +32,16 @@ I have more than 100 different demo repos. Here's the index with tags:
 - 🔗 [Linkedin](https://www.linkedin.com/in/asifhussain14/)
 - 📫 [E-mail](mailto:masifhussain213@gmail.com)
 
+
+<!--
+
 ## My GitHub Stats
 
 <a href="https://github.com/muahu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muahu&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
 </a>
 
-<!--
+
 **muahu/muahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
